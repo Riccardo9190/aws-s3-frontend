@@ -1,0 +1,38 @@
+.container {
+  background-color: #0b0b42;
+  min-height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+}
+.image {
+  width: 250px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.submitButton {
+  width: 170px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.submitButton:hover {
+  background-color: white;
+  border-color: black;
+  color: black;
+}
+.imageContainer {
+  display: flex;
+  gap: 30px;
+}
