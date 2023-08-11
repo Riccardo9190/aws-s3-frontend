@@ -22,7 +22,7 @@ An S3 bucket is a unique storage container in Amazon S3 used to organize and sto
 - Set environment variable for the API:
 
 ```shell
-echo "REACT_APP_BASE_API=http://localhost:8080 > .env
+echo "REACT_APP_BASE_API=http://localhost:8080" > .env
 ```
 
 - Run the aplication with  ```npm start```
@@ -47,6 +47,3 @@ You can add more than one image:
 All these images are stored in the S3 bucket:
 
 <img src="https://github.com/Riccardo9190/aws-s3-frontend/blob/master/public/image-5.png" /> 
-
-
-
