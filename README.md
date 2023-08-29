@@ -19,7 +19,7 @@ An S3 bucket is a unique storage container in Amazon S3 used to organize and sto
 
 - Install all dependencies with ```npm install```
 
-- Set environment variable for the API:
+- Set the environment variable for the API:
 
 ```shell
 echo "REACT_APP_BASE_API=http://localhost:8080" > .env
