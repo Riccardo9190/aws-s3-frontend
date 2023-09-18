@@ -40,7 +40,6 @@ Click the 'Procurar' button to upload an image in JPEG or PNG format from your d
 <img src="https://github.com/Riccardo9190/aws-s3-frontend/blob/master/public/image-2.png" /> 
 
 You can add more than one image:
-
 <img src="https://github.com/Riccardo9190/aws-s3-frontend/blob/master/public/image-3.png" /> 
 <img src="https://github.com/Riccardo9190/aws-s3-frontend/blob/master/public/image-4.png" /> 
 
